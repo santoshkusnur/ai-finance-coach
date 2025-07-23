@@ -1,0 +1,13 @@
+{
+  "name": "BudgetBot",
+  "description": "Helps users create and track budgets.",
+  "triggers": [
+    "budget",
+    "spending",
+    "expenses"
+  ],
+  "sampleUtterances": [
+    "Help me budget",
+    "Track my expenses"
+  ]
+}

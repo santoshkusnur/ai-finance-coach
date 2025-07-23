@@ -1,0 +1,13 @@
+{
+  "name": "PlannerBot",
+  "description": "Helps plan long-term financial goals like retirement, education, housing.",
+  "triggers": [
+    "retirement",
+    "financial plan",
+    "goal"
+  ],
+  "sampleUtterances": [
+    "Plan for retirement",
+    "I want to save for college"
+  ]
+}

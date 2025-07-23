@@ -1,0 +1,13 @@
+{
+  "name": "TaxBot",
+  "description": "Provides high-level, jurisdiction-aware tax guidance (not legal advice).",
+  "triggers": [
+    "tax",
+    "income tax",
+    "deductions"
+  ],
+  "sampleUtterances": [
+    "How do I save tax in India?",
+    "US tax help"
+  ]
+}
